@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1388087208 source:c:\break em!\main.cpp
+	<SDL.h>
+	<SDL_opengl.h>
+	<SDL_image.h>
+	<iostream>
+	<string>
+
+1388115460 source:j:\ku expo\break em!\main.cpp
+	<SDL.h>
+	<SDL_opengl.h>
+	<SDL_image.h>
+	<iostream>
+	<string>
+
+1388209740 source:c:\users\dell1\desktop\break em!\main.cpp
+	<SDL.h>
+	<SDL_opengl.h>
+	<SDL_image.h>
+	<iostream>
+	<string>
+
+1388215048 source:d:\break em!\main.cpp
+	<SDL.h>
+	<SDL_opengl.h>
+	<SDL_image.h>
+	<iostream>
+	<string>
+

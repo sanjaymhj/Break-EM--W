@@ -1,0 +1,6 @@
+1. Run the Brick Breaker.exe
+controls
+1. space to play the game.
+2. esc to pause the game.
+3. right and left arrow to control the box correspondingly.
+4. left control to initialize the game to he initial ist menu.
